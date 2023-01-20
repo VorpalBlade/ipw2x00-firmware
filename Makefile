@@ -1,6 +1,6 @@
 DESTDIR ?=
-FIRMWAREDIR = /lib/firmware
-LICENSEDIR = /usr/share/licenses/ipw2x00-firmwares
+FIRMWAREDIR = /usr/lib/firmware
+LICENSEDIR = /usr/share/licenses/ipw2x00-firmware
 
 FIRMWARES = \
 	ipw2100-1.3.fw \
