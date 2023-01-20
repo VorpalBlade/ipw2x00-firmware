@@ -8,3 +8,6 @@ specifically [the debian patch tarball](http://deb.debian.org/debian/pool/non-fr
 
 This repo provides a stable location to download these firmwares for my Arch Linux AUR package.
 I would love a better solution.
+
+Please [read the license](LICENSE) before using this firmware, it is rather silly,
+but this is unfortunately not free software.
